@@ -1,6 +1,6 @@
 # rcarvalho
 
-Encontros os testes : src/test/java/testes
+Encontre os testes em: src/test/java/testes
 
 Ou
 
