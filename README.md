@@ -1,7 +1,13 @@
 # rcarvalho
 
-1.  O arquivo "wevdriverJava.zip" contém os scripts de teste (Selenium WebDriver)
-2.  Testes feitos utilizando:
+Encontros os testes : src/test/java/testes
+
+Ou
+
+O arquivo "wevdriverJava.zip" contém os scripts de teste (Selenium WebDriver)
+  
+  
+  Testes feitos utilizando:
 
 Google Chrome Driver /
 JUniti dependecies / 
